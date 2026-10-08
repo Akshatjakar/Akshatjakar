@@ -1,7 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on Product IQ<br>👯 I’m looking to collaborate on Internships from BANGBROS<br>🤝 I’m looking for help with the intention of getting fucked<br>🌱 I’m currently learning how to suck my own dick<br>💬 Ask me about my dick size spoiler:: Its shorter than shortest hair on hands<br>⚡ Fun fact -> I Am GAy
-
-
+- 🔭 **Current Focus:** Building scalable web applications & full-stack development
+- 👯 **Looking to Collaborate:** Open-source projects, developer tools, and innovative startup ideas
+- 🤝 **Seeking Opportunities:** Software Engineering & Full-Stack Developer internships / roles
+- 💬 **Ask Me About:** Frontend (Next/Vite), Backend systems, or Database optimization
+- ⚡ **Fun Fact:** I turn coffee and curiosity into clean, deployable code
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akshat-jakar-01325242a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshatjakar2@gmail.com) 
 
